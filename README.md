@@ -30,6 +30,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact 📧
 
-For any inquiries or feedback, please contact [Your Name](mailto:youremail@example.com).
+For any inquiries or feedback, please contact Shreyash shreyashkhote01@gmail.com.
 
 Happy analyzing! 🎉
