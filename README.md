@@ -1,4 +1,4 @@
-# Superstore Dataset Analysis 📊🛍️
+# Superstore Data Analysis 📊🛍️
 
 Welcome to the Superstore Dataset Analysis repository! This interactive platform offers a comprehensive exploration of the Superstore dataset, providing valuable insights into sales trends, customer behavior, and product performance.
 
